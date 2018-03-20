@@ -1,0 +1,1649 @@
+{
+  "version": "0.5.1",
+  "modules": [
+    {
+      "plugin": "Core",
+      "model": "AudioInterface",
+      "pos": [
+        2055.0,
+        0.0
+      ],
+      "params": [],
+      "data": {
+        "driver": 2,
+        "device": 0,
+        "sampleRate": 96000.0,
+        "blockSize": 4096
+      }
+    },
+    {
+      "plugin": "AudibleInstruments",
+      "model": "Braids",
+      "pos": [
+        390.0,
+        0.0
+      ],
+      "params": [
+        0.57300025224685669,
+        -1.0,
+        -0.55800008773803711,
+        0.029999906197190285,
+        0.24800057709217072,
+        0.66300004720687866,
+        0.38850000500679016
+      ],
+      "data": {
+        "settings": [
+          26,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "lowCpu": false
+      }
+    },
+    {
+      "plugin": "Fundamental",
+      "model": "LFO",
+      "pos": [
+        0.0,
+        0.0
+      ],
+      "params": [
+        1.0,
+        1.0,
+        -3.2260003089904785,
+        0.0,
+        0.5,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "plugin": "Fundamental",
+      "model": "VCMixer",
+      "pos": [
+        630.0,
+        0.0
+      ],
+      "params": [
+        0.5,
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "plugin": "Befaco",
+      "model": "ABC",
+      "pos": [
+        300.0,
+        0.0
+      ],
+      "params": [
+        1.0,
+        -0.24000042676925659,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "plugin": "Fundamental",
+      "model": "LFO",
+      "pos": [
+        0.0,
+        380.0
+      ],
+      "params": [
+        0.0,
+        1.0,
+        -1.3569989204406738,
+        0.0,
+        0.5,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "plugin": "AudibleInstruments",
+      "model": "Braids",
+      "pos": [
+        150.0,
+        380.0
+      ],
+      "params": [
+        0.58950036764144897,
+        -1.0,
+        1.8959997892379761,
+        0.029999906197190285,
+        0.24800057709217072,
+        0.66300004720687866,
+        0.0
+      ],
+      "data": {
+        "settings": [
+          27,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "lowCpu": false
+      }
+    },
+    {
+      "plugin": "Befaco",
+      "model": "SpringReverb",
+      "pos": [
+        870.0,
+        380.0
+      ],
+      "params": [
+        1.0,
+        1.0,
+        0.82499986886978149,
+        0.58700001239776611
+      ]
+    },
+    {
+      "plugin": "AudibleInstruments",
+      "model": "Braids",
+      "pos": [
+        540.0,
+        760.0
+      ],
+      "params": [
+        0.96750086545944214,
+        -1.0,
+        1.0640006065368652,
+        0.62999993562698364,
+        0.43800032138824463,
+        0.66300004720687866,
+        0.86099988222122192
+      ],
+      "data": {
+        "settings": [
+          45,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "lowCpu": false
+      }
+    },
+    {
+      "plugin": "Befaco",
+      "model": "ABC",
+      "pos": [
+        450.0,
+        760.0
+      ],
+      "params": [
+        1.0,
+        -0.60399973392486572,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "plugin": "Fundamental",
+      "model": "LFO",
+      "pos": [
+        0.0,
+        760.0
+      ],
+      "params": [
+        0.0,
+        1.0,
+        -1.5459990501403809,
+        0.0,
+        0.5,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "plugin": "AudibleInstruments",
+      "model": "Elements",
+      "pos": [
+        780.0,
+        760.0
+      ],
+      "params": [
+        1.0,
+        0.0,
+        1.0,
+        1.0,
+        -8.2799997329711914,
+        -0.93799960613250732,
+        -0.27599993348121643,
+        0.64100033044815063,
+        0.68299996852874756,
+        0.10699872672557831,
+        0.29350006580352783,
+        0.82999998331069946,
+        0.093500077724456787,
+        1.0,
+        0.5,
+        0.67199981212615967,
+        2.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.14700007438659668,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "data": {
+        "model": 2
+      }
+    },
+    {
+      "plugin": "Fundamental",
+      "model": "LFO",
+      "pos": [
+        150.0,
+        760.0
+      ],
+      "params": [
+        0.0,
+        1.0,
+        -4.611994743347168,
+        0.0,
+        1.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "plugin": "AS",
+      "model": "Mixer8ch",
+      "pos": [
+        870.0,
+        0.0
+      ],
+      "params": [
+        -0.011999964714050293,
+        -0.25800007581710815,
+        0.0,
+        -0.0029998798854649067,
+        0.027000604197382927,
+        0.057000052183866501,
+        0.0,
+        0.0,
+        0.31399974226951599,
+        0.25549989938735962,
+        0.10450061410665512,
+        1.0,
+        1.0,
+        0.22749899327754974,
+        0.80000001192092896,
+        0.80000001192092896,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.53000134229660034,
+        0.0
+      ],
+      "data": {
+        "as_MixerMutes": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "plugin": "AS",
+      "model": "Mixer8ch",
+      "pos": [
+        1260.0,
+        0.0
+      ],
+      "params": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        1.0,
+        1.0,
+        0.80000001192092896,
+        0.80000001192092896,
+        0.80000001192092896,
+        0.80000001192092896,
+        0.77599954605102539,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.61499893665313721,
+        0.0
+      ],
+      "data": {
+        "as_MixerMutes": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1
+        ]
+      }
+    },
+    {
+      "plugin": "Fundamental",
+      "model": "LFO",
+      "pos": [
+        300.0,
+        760.0
+      ],
+      "params": [
+        1.0,
+        1.0,
+        -1.1889936923980713,
+        0.0,
+        1.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "plugin": "AS",
+      "model": "ReverbFx",
+      "pos": [
+        780.0,
+        0.0
+      ],
+      "params": [
+        0.83520013093948364,
+        0.83250051736831665,
+        0.86349999904632568,
+        0.0
+      ],
+      "data": {
+        "as_FxBypass": [
+          false
+        ]
+      }
+    },
+    {
+      "plugin": "AS",
+      "model": "stereoVUmeterWidget",
+      "pos": [
+        1980.0,
+        0.0
+      ],
+      "params": []
+    },
+    {
+      "plugin": "AS",
+      "model": "PhaserFx",
+      "pos": [
+        1290.0,
+        760.0
+      ],
+      "params": [
+        0.49800002574920654,
+        0.59850019216537476,
+        0.31049996614456177,
+        0.0
+      ],
+      "data": {
+        "as_FxBypass": [
+          false
+        ]
+      }
+    },
+    {
+      "plugin": "AS",
+      "model": "SEQ16",
+      "pos": [
+        750.0,
+        1140.0
+      ],
+      "params": [
+        -2.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        16.0,
+        0.5549999475479126,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.65999984741210938,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.42000001668930054,
+        0.0,
+        0.0,
+        0.0,
+        1.0049997568130493,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.55499988794326782,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.65999972820281982,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.40499988198280334,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.98999977111816406,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "data": {
+        "running": true,
+        "gates": [
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1
+        ],
+        "gateMode": 0
+      }
+    },
+    {
+      "plugin": "AudibleInstruments",
+      "model": "Braids",
+      "pos": [
+        1410.0,
+        1140.0
+      ],
+      "params": [
+        0.270000159740448,
+        0.0,
+        0.0,
+        0.0,
+        0.5,
+        0.0,
+        0.5
+      ],
+      "data": {
+        "settings": [
+          12,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          255,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "lowCpu": false
+      }
+    },
+    {
+      "plugin": "Fundamental",
+      "model": "VCA",
+      "pos": [
+        1770.0,
+        1140.0
+      ],
+      "params": [
+        0.5,
+        1.0
+      ]
+    },
+    {
+      "plugin": "Fundamental",
+      "model": "ADSR",
+      "pos": [
+        1650.0,
+        1140.0
+      ],
+      "params": [
+        0.0,
+        0.5,
+        0.5,
+        0.57500046491622925
+      ]
+    },
+    {
+      "plugin": "Grayscale",
+      "model": "Algorhythm",
+      "pos": [
+        0.0,
+        1520.0
+      ],
+      "params": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "data": {
+        "looping": true,
+        "seq": false,
+        "gate": true,
+        "pattern": [
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1
+        ]
+      }
+    },
+    {
+      "plugin": "AudibleInstruments",
+      "model": "Braids",
+      "pos": [
+        270.0,
+        1520.0
+      ],
+      "params": [
+        0.73500049114227295,
+        -1.0,
+        -2.0,
+        -0.38099968433380127,
+        0.38449996709823608,
+        0.0,
+        0.5
+      ],
+      "data": {
+        "settings": [
+          34,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          255,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "lowCpu": true
+      }
+    },
+    {
+      "plugin": "AS",
+      "model": "BPMClock",
+      "pos": [
+        0.0,
+        1140.0
+      ],
+      "params": [
+        99.84033203125,
+        3.6294994354248047,
+        1.0,
+        0.0,
+        0.0
+      ],
+      "data": {
+        "run": [
+          1
+        ]
+      }
+    },
+    {
+      "plugin": "AudibleInstruments",
+      "model": "Braids",
+      "pos": [
+        750.0,
+        1520.0
+      ],
+      "params": [
+        0.77400034666061401,
+        -1.0,
+        -0.8059995174407959,
+        0.0,
+        0.5,
+        0.0,
+        0.48050010204315186
+      ],
+      "data": {
+        "settings": [
+          36,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          255,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "lowCpu": true
+      }
+    },
+    {
+      "plugin": "AudibleInstruments",
+      "model": "Braids",
+      "pos": [
+        510.0,
+        1520.0
+      ],
+      "params": [
+        0.73500049114227295,
+        -1.0,
+        -2.0,
+        0.0,
+        0.58600008487701416,
+        0.87900012731552124,
+        1.0
+      ],
+      "data": {
+        "settings": [
+          34,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          255,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "lowCpu": true
+      }
+    },
+    {
+      "plugin": "Grayscale",
+      "model": "Binary",
+      "pos": [
+        180.0,
+        1520.0
+      ],
+      "params": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "data": {
+        "states": [
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1
+        ]
+      }
+    },
+    {
+      "plugin": "Fundamental",
+      "model": "LFO",
+      "pos": [
+        390.0,
+        380.0
+      ],
+      "params": [
+        1.0,
+        1.0,
+        -4.1289968490600586,
+        0.0,
+        0.2015000581741333,
+        0.0,
+        0.47700005769729614
+      ]
+    },
+    {
+      "plugin": "AudibleInstruments",
+      "model": "Braids",
+      "pos": [
+        540.0,
+        380.0
+      ],
+      "params": [
+        0.92199975252151489,
+        -1.0,
+        -2.0,
+        0.63000017404556274,
+        0.58600008487701416,
+        0.87900012731552124,
+        0.3294995129108429
+      ],
+      "data": {
+        "settings": [
+          42,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          255,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "lowCpu": true
+      }
+    },
+    {
+      "plugin": "AS",
+      "model": "ReverbFx",
+      "pos": [
+        780.0,
+        380.0
+      ],
+      "params": [
+        0.89999997615814209,
+        1.0,
+        0.88299989700317383,
+        0.0
+      ],
+      "data": {
+        "as_FxBypass": [
+          false
+        ]
+      }
+    },
+    {
+      "plugin": "Fundamental",
+      "model": "LFO",
+      "pos": [
+        150.0,
+        0.0
+      ],
+      "params": [
+        1.0,
+        0.0,
+        -3.7719948291778564,
+        0.0,
+        1.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "plugin": "Grayscale",
+      "model": "Algorhythm",
+      "pos": [
+        90.0,
+        1140.0
+      ],
+      "params": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "data": {
+        "looping": true,
+        "seq": false,
+        "gate": true,
+        "pattern": [
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1
+        ]
+      }
+    },
+    {
+      "plugin": "Grayscale",
+      "model": "Binary",
+      "pos": [
+        270.0,
+        1140.0
+      ],
+      "params": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "data": {
+        "states": [
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1
+        ]
+      }
+    },
+    {
+      "plugin": "Fundamental",
+      "model": "LFO",
+      "pos": [
+        600.0,
+        1140.0
+      ],
+      "params": [
+        0.0,
+        1.0,
+        0.42099651694297791,
+        0.0,
+        1.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "plugin": "Fundamental",
+      "model": "LFO",
+      "pos": [
+        450.0,
+        1140.0
+      ],
+      "params": [
+        1.0,
+        1.0,
+        -3.6039998531341553,
+        0.0,
+        0.5,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "plugin": "Befaco",
+      "model": "ABC",
+      "pos": [
+        1860.0,
+        1140.0
+      ],
+      "params": [
+        1.0,
+        0.2919999361038208,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "plugin": "AS",
+      "model": "BPMClock",
+      "pos": [
+        360.0,
+        1140.0
+      ],
+      "params": [
+        52.590328216552734,
+        3.6294994354248047,
+        1.0,
+        0.0,
+        0.0
+      ],
+      "data": {
+        "run": [
+          1
+        ]
+      }
+    },
+    {
+      "plugin": "AS",
+      "model": "ReverbFx",
+      "pos": [
+        1800.0,
+        0.0
+      ],
+      "params": [
+        0.18206854164600372,
+        0.32657501101493835,
+        0.0,
+        0.0
+      ],
+      "data": {
+        "as_FxBypass": [
+          false
+        ]
+      }
+    },
+    {
+      "plugin": "AS",
+      "model": "ReverbFx",
+      "pos": [
+        1890.0,
+        0.0
+      ],
+      "params": [
+        0.15371860563755035,
+        0.21557499468326569,
+        0.0,
+        0.0
+      ],
+      "data": {
+        "as_FxBypass": [
+          false
+        ]
+      }
+    },
+    {
+      "plugin": "AS",
+      "model": "TriLFO",
+      "pos": [
+        1650.0,
+        0.0
+      ],
+      "params": [
+        -2.9110002517700195,
+        1.0,
+        1.0,
+        -3.3100004196166992,
+        1.0,
+        1.0,
+        -1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "plugin": "AudibleInstruments",
+      "model": "Braids",
+      "pos": [
+        1260.0,
+        380.0
+      ],
+      "params": [
+        0.89250218868255615,
+        0.0,
+        -1.7779997587203979,
+        0.0,
+        0.69850081205368042,
+        0.0,
+        0.2070000171661377
+      ],
+      "data": {
+        "settings": [
+          41,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "lowCpu": false
+      }
+    },
+    {
+      "plugin": "AS",
+      "model": "TriLFO",
+      "pos": [
+        990.0,
+        380.0
+      ],
+      "params": [
+        -3.7090003490447998,
+        1.0,
+        1.0,
+        -1.4830013513565063,
+        1.0,
+        0.0,
+        -0.13899685442447662,
+        1.0,
+        0.0
+      ]
+    },
+    {
+      "plugin": "AS",
+      "model": "QuadVCA",
+      "pos": [
+        1140.0,
+        380.0
+      ],
+      "params": [
+        1.0,
+        0.21799951791763306,
+        0.25100007653236389,
+        0.5,
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "plugin": "AS",
+      "model": "ReverbFx",
+      "pos": [
+        1500.0,
+        380.0
+      ],
+      "params": [
+        0.5,
+        0.0,
+        0.5,
+        0.0
+      ],
+      "data": {
+        "as_FxBypass": [
+          false
+        ]
+      }
+    }
+  ],
+  "wires": [
+    {
+      "outputModuleId": 2,
+      "outputId": 2,
+      "inputModuleId": 1,
+      "inputId": 2
+    },
+    {
+      "outputModuleId": 1,
+      "outputId": 0,
+      "inputModuleId": 3,
+      "inputId": 1
+    },
+    {
+      "outputModuleId": 2,
+      "outputId": 2,
+      "inputModuleId": 3,
+      "inputId": 2
+    },
+    {
+      "outputModuleId": 3,
+      "outputId": 1,
+      "inputModuleId": 16,
+      "inputId": 0
+    },
+    {
+      "outputModuleId": 2,
+      "outputId": 2,
+      "inputModuleId": 4,
+      "inputId": 2
+    },
+    {
+      "outputModuleId": 4,
+      "outputId": 0,
+      "inputModuleId": 1,
+      "inputId": 4
+    },
+    {
+      "outputModuleId": 6,
+      "outputId": 0,
+      "inputModuleId": 3,
+      "inputId": 3
+    },
+    {
+      "outputModuleId": 3,
+      "outputId": 2,
+      "inputModuleId": 7,
+      "inputId": 2
+    },
+    {
+      "outputModuleId": 5,
+      "outputId": 0,
+      "inputModuleId": 3,
+      "inputId": 4
+    },
+    {
+      "outputModuleId": 5,
+      "outputId": 0,
+      "inputModuleId": 6,
+      "inputId": 3
+    },
+    {
+      "outputModuleId": 8,
+      "outputId": 0,
+      "inputModuleId": 11,
+      "inputId": 5
+    },
+    {
+      "outputModuleId": 10,
+      "outputId": 0,
+      "inputModuleId": 9,
+      "inputId": 2
+    },
+    {
+      "outputModuleId": 9,
+      "outputId": 0,
+      "inputModuleId": 8,
+      "inputId": 3
+    },
+    {
+      "outputModuleId": 12,
+      "outputId": 0,
+      "inputModuleId": 11,
+      "inputId": 12
+    },
+    {
+      "outputModuleId": 16,
+      "outputId": 0,
+      "inputModuleId": 13,
+      "inputId": 0
+    },
+    {
+      "outputModuleId": 13,
+      "outputId": 8,
+      "inputModuleId": 14,
+      "inputId": 25
+    },
+    {
+      "outputModuleId": 13,
+      "outputId": 9,
+      "inputModuleId": 14,
+      "inputId": 26
+    },
+    {
+      "outputModuleId": 7,
+      "outputId": 1,
+      "inputModuleId": 13,
+      "inputId": 3
+    },
+    {
+      "outputModuleId": 11,
+      "outputId": 1,
+      "inputModuleId": 18,
+      "inputId": 0
+    },
+    {
+      "outputModuleId": 15,
+      "outputId": 0,
+      "inputModuleId": 13,
+      "inputId": 11
+    },
+    {
+      "outputModuleId": 20,
+      "outputId": 0,
+      "inputModuleId": 21,
+      "inputId": 5
+    },
+    {
+      "outputModuleId": 22,
+      "outputId": 0,
+      "inputModuleId": 21,
+      "inputId": 3
+    },
+    {
+      "outputModuleId": 19,
+      "outputId": 0,
+      "inputModuleId": 22,
+      "inputId": 4
+    },
+    {
+      "outputModuleId": 19,
+      "outputId": 1,
+      "inputModuleId": 20,
+      "inputId": 1
+    },
+    {
+      "outputModuleId": 18,
+      "outputId": 0,
+      "inputModuleId": 13,
+      "inputId": 9
+    },
+    {
+      "outputModuleId": 24,
+      "outputId": 0,
+      "inputModuleId": 14,
+      "inputId": 0
+    },
+    {
+      "outputModuleId": 26,
+      "outputId": 0,
+      "inputModuleId": 14,
+      "inputId": 3
+    },
+    {
+      "outputModuleId": 23,
+      "outputId": 1,
+      "inputModuleId": 27,
+      "inputId": 0
+    },
+    {
+      "outputModuleId": 27,
+      "outputId": 0,
+      "inputModuleId": 14,
+      "inputId": 6
+    },
+    {
+      "outputModuleId": 23,
+      "outputId": 0,
+      "inputModuleId": 28,
+      "inputId": 0
+    },
+    {
+      "outputModuleId": 28,
+      "outputId": 0,
+      "inputModuleId": 24,
+      "inputId": 0
+    },
+    {
+      "outputModuleId": 23,
+      "outputId": 4,
+      "inputModuleId": 28,
+      "inputId": 1
+    },
+    {
+      "outputModuleId": 31,
+      "outputId": 0,
+      "inputModuleId": 13,
+      "inputId": 6
+    },
+    {
+      "outputModuleId": 29,
+      "outputId": 0,
+      "inputModuleId": 30,
+      "inputId": 2
+    },
+    {
+      "outputModuleId": 5,
+      "outputId": 2,
+      "inputModuleId": 20,
+      "inputId": 3
+    },
+    {
+      "outputModuleId": 23,
+      "outputId": 5,
+      "inputModuleId": 28,
+      "inputId": 2
+    },
+    {
+      "outputModuleId": 23,
+      "outputId": 2,
+      "inputModuleId": 26,
+      "inputId": 0
+    },
+    {
+      "outputModuleId": 30,
+      "outputId": 0,
+      "inputModuleId": 3,
+      "inputId": 5
+    },
+    {
+      "outputModuleId": 32,
+      "outputId": 0,
+      "inputModuleId": 13,
+      "inputId": 2
+    },
+    {
+      "outputModuleId": 25,
+      "outputId": 4,
+      "inputModuleId": 23,
+      "inputId": 2
+    },
+    {
+      "outputModuleId": 25,
+      "outputId": 4,
+      "inputModuleId": 33,
+      "inputId": 2
+    },
+    {
+      "outputModuleId": 33,
+      "outputId": 3,
+      "inputModuleId": 34,
+      "inputId": 0
+    },
+    {
+      "outputModuleId": 33,
+      "outputId": 7,
+      "inputModuleId": 34,
+      "inputId": 1
+    },
+    {
+      "outputModuleId": 33,
+      "outputId": 2,
+      "inputModuleId": 34,
+      "inputId": 2
+    },
+    {
+      "outputModuleId": 33,
+      "outputId": 4,
+      "inputModuleId": 34,
+      "inputId": 3
+    },
+    {
+      "outputModuleId": 35,
+      "outputId": 0,
+      "inputModuleId": 19,
+      "inputId": 3
+    },
+    {
+      "outputModuleId": 21,
+      "outputId": 1,
+      "inputModuleId": 13,
+      "inputId": 12
+    },
+    {
+      "outputModuleId": 33,
+      "outputId": 6,
+      "inputModuleId": 34,
+      "inputId": 4
+    },
+    {
+      "outputModuleId": 34,
+      "outputId": 0,
+      "inputModuleId": 19,
+      "inputId": 1
+    },
+    {
+      "outputModuleId": 36,
+      "outputId": 0,
+      "inputModuleId": 13,
+      "inputId": 14
+    },
+    {
+      "outputModuleId": 38,
+      "outputId": 3,
+      "inputModuleId": 34,
+      "inputId": 5
+    },
+    {
+      "outputModuleId": 14,
+      "outputId": 8,
+      "inputModuleId": 39,
+      "inputId": 0
+    },
+    {
+      "outputModuleId": 14,
+      "outputId": 9,
+      "inputModuleId": 40,
+      "inputId": 0
+    },
+    {
+      "outputModuleId": 39,
+      "outputId": 0,
+      "inputModuleId": 0,
+      "inputId": 0
+    },
+    {
+      "outputModuleId": 40,
+      "outputId": 0,
+      "inputModuleId": 0,
+      "inputId": 1
+    },
+    {
+      "outputModuleId": 39,
+      "outputId": 0,
+      "inputModuleId": 17,
+      "inputId": 0
+    },
+    {
+      "outputModuleId": 40,
+      "outputId": 0,
+      "inputModuleId": 17,
+      "inputId": 1
+    },
+    {
+      "outputModuleId": 41,
+      "outputId": 0,
+      "inputModuleId": 39,
+      "inputId": 3
+    },
+    {
+      "outputModuleId": 41,
+      "outputId": 4,
+      "inputModuleId": 40,
+      "inputId": 3
+    },
+    {
+      "outputModuleId": 3,
+      "outputId": 3,
+      "inputModuleId": 31,
+      "inputId": 0
+    },
+    {
+      "outputModuleId": 43,
+      "outputId": 0,
+      "inputModuleId": 44,
+      "inputId": 4
+    },
+    {
+      "outputModuleId": 44,
+      "outputId": 0,
+      "inputModuleId": 42,
+      "inputId": 3
+    },
+    {
+      "outputModuleId": 42,
+      "outputId": 0,
+      "inputModuleId": 45,
+      "inputId": 0
+    },
+    {
+      "outputModuleId": 45,
+      "outputId": 0,
+      "inputModuleId": 13,
+      "inputId": 15
+    },
+    {
+      "outputModuleId": 43,
+      "outputId": 5,
+      "inputModuleId": 44,
+      "inputId": 5
+    },
+    {
+      "outputModuleId": 44,
+      "outputId": 1,
+      "inputModuleId": 42,
+      "inputId": 4
+    },
+    {
+      "outputModuleId": 43,
+      "outputId": 8,
+      "inputModuleId": 44,
+      "inputId": 6
+    },
+    {
+      "outputModuleId": 44,
+      "outputId": 2,
+      "inputModuleId": 13,
+      "inputId": 17
+    }
+  ]
+}
