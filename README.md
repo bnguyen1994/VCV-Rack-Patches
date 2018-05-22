@@ -1,6 +1,11 @@
 # VCV-Rack-Patches
 Just a dump for all the patches I have created for VCV Rack. Each image below links to a YouTube video a patch's performance. Enjoy!
 
+## 2018/05/11 VCV Rack Accidental Shuffles Generative
+[![IMAGE ALT TEXT](http://img.youtube.com/vi/FN4e9p0twAo/0.jpg)](http://www.youtube.com/watch?v=FN4e9p0twAo "2018_05_11 VCV Rack Accidental Shuffles Generative")
+
+## 2018/04/09 VCV Rack Generative IDM
+[![IMAGE ALT TEXT](http://img.youtube.com/vi/M0Hvf8iGgOM/0.jpg)](http://www.youtube.com/watch?v=M0Hvf8iGgOM "2018_05_11 VCV Rack Generative IDM")
 
 ## 2018/03/29 VCV Rack TekSec
 [![IMAGE ALT TEXT](http://img.youtube.com/vi/EDKufpm3APc/0.jpg)](http://www.youtube.com/watch?v=EDKufpm3APc "2018/03/29 VCV Rack TekSec")
